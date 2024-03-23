@@ -68,13 +68,22 @@ Native HTML tags with WAI-ARIA Roles have been used for accessibility which woul
 
 An 92 overall score achieved in Lighthouse tool
 
+![Screenshot 2024-03-23 at 21 23 22](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/1bb95e4a-e97b-4bf5-858a-68eb1d578c49)
+
 ## Responsiveness
 
 The app is responsive and adjusts to desktop, tablet and mobile viewports, media queries have been added via Tailwind for adjusting the design to the screen size.
 
 ### Mobile
 
+![Screenshot 2024-03-23 at 21 52 02](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/3d45bff7-dc8d-4381-ab6f-f1ae3375baf0)
+
 ### Tablet
 
+![Screenshot 2024-03-23 at 21 52 37](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/ff1b5cfd-b666-4ae0-870a-489e05605e22)
+
+![Screenshot 2024-03-23 at 21 52 55](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/c8e40fde-461a-46f3-ad31-7c55fc7e3149)
 
 ### Desktop
+
+![Screenshot 2024-03-23 at 21 51 37](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/668ab4bc-63ee-4baf-b19d-2b17111012f4)
