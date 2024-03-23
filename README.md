@@ -32,7 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Description
 
-Product widgets display, the user can select the colour of the widget, link it to a public profile or activate it. Just one widget can be active at a time so if the user actiaves a widget, the other active widget gets deactivated.
+Product widgets display, the user can select the colour of the widget, link it to a public profile or activate it. Just one widget can be active at a time so if the user activates a widget, the other active widget gets deactivated.
 
 If the user hovers the "i" icon a tooltip gets rendered.
 
