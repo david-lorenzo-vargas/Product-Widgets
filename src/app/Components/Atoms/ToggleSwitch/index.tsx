@@ -63,7 +63,6 @@ const ToggleSwitch = ({
               absolute
               -top-5
               -left-5
-              
             `}
           />
         )}
