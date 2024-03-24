@@ -70,6 +70,8 @@ Storybook added for creating and testing Atom components in isolation.
 
 For running sotyrbook: `npm run storybook`
 
+![Screenshot 2024-03-24 at 12 20 48](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/b227386d-3e7d-4dd4-96e4-281d0b483151)
+
 ## Accessibility
 
 Native HTML tags with WAI-ARIA Roles have been used for accessibility which would allow screen readers to navigate through the page.
