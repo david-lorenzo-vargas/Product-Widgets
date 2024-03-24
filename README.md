@@ -18,7 +18,7 @@ First, install node modules:
 npm install
 ```
 
-Add `.env` file to the root of the project and declare `FETCH_WIDGETS_URL` (the url provided in the task), 
+Add `.env` file to the root of the project and declare `FETCH_WIDGETS_URL` (the endpoint provided in the task), 
 
 Then, run the development server:
 
