@@ -7,8 +7,9 @@
 5. [Types](#types)
 6. [Atomic approach](#atomic-approach)
 7. [Testing](#testing)
-8. [Accessibility](#accessibility)
-9. [Responsiveness](#responsiveness)
+8. [Storybook](#storybook)
+9. [Accessibility](#accessibility)
+10. [Responsiveness](#responsiveness)
 
 ## Getting Started
 
@@ -46,6 +47,7 @@ If the user hovers the "i" icon a tooltip gets rendered.
   <li>Tailwind</li>
   <li>Jest</li>
   <li>React Testing Library</li>
+  <li>Storybook</li>
 </ul>
 
 ## Types
@@ -61,6 +63,12 @@ Atomic approach has been used for structuring and ordering the componets separat
 Jest and React Testing Library have been used for testing. Testing has been added for some components but, as further implementation, it would be necessary to add more unit and integration testing for other functionalities and components.
 
 For running tests: `npm run test`
+
+## Storybook
+
+Storybook added for creating and testing Atom components in isolation.
+
+For running sotyrbook: `npm run storybook`
 
 ## Accessibility
 
