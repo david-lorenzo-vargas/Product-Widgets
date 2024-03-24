@@ -39,6 +39,8 @@ If the user hovers the "i" icon a tooltip gets rendered.
 
 ## Demo
 
+![Mar-24-2024 12-35-01](https://github.com/david-lorenzo-vargas/Product-Widgets/assets/72414745/fbca8b8d-5ff8-419e-b198-91b1ce867006)
+
 ## Stack
 
 <ul>
